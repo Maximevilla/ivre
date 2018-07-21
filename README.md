@@ -41,6 +41,8 @@ have been written to show some features of IVRE.
 See [doc/README](doc/README.md) (and `doc/*` files) for more
 information.
 
+GIT Commit Test
+
 On a server with the IVRE web server properly installed with a
 Dokuwiki notepad, the `doc/*` files are available under the `doc:`
 namespace (e.g., `doc:readme` for the [doc/README](doc/README.md)
